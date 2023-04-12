@@ -2,7 +2,7 @@
 - 👀 I’m interested in you
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on ESG projects
-- 📫 How to reach me ?
+- 📫 How to reach me ? Call me ;)
 
 <!---
 SFR17Lux/SFR17Lux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
